@@ -3,7 +3,7 @@ i=1
 count=0
 while(num%i==0)
 {
-count++
+count+=1
 }
 i++
-    console.log(count) 
+console.log(cout)
