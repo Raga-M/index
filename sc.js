@@ -6,4 +6,4 @@ while(num%i==0)
 count++
 }
 i++
-console.log(count)
+    console.log(count) 
